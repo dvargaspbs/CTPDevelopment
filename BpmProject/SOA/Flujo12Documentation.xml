@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?oracleBPM version="12.1.3" fileRevision="20120601"?>
+<processDocumentation xmlns="http://xmlns.oracle.com/bpm/taskMetadataService/processDocumentation">
+   <component name="Flujo12">
+      <topicDocumentations>
+         <topicDocumentation name="Flujo12"/>
+         <topicDocumentation name="ACT21469699844837">
+            <labels>
+               <label locale="en">UserTask</label>
+            </labels>
+            <descriptions>
+               <description locale="en"></description>
+            </descriptions>
+         </topicDocumentation>
+         <topicDocumentation name="EVT21469699844710">
+            <labels>
+               <label locale="en">Start</label>
+            </labels>
+         </topicDocumentation>
+         <topicDocumentation name="EVT2146969984475">
+            <labels>
+               <label locale="en">End</label>
+            </labels>
+         </topicDocumentation>
+         <topicDocumentation name="sf21469699844821"/>
+         <topicDocumentation name="sf21469699844851"/>
+      </topicDocumentations>
+   </component>
+</processDocumentation>
